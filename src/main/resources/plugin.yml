@@ -1,0 +1,11 @@
+name: StorageScanner
+version: '${project.version}'
+main: me.monoto.storagescanner.StorageScanner
+api-version: 1.19
+authors: [ Monoto ]
+description: Makes all chest in an area availiable from one position.
+
+commands:
+    storagescanner:
+        description: StorageScanner command
+        aliases: [ ss ]
